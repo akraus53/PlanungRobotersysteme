@@ -1,4 +1,4 @@
-## Lernziele
+## 0.1 Lernziele
 
 - Einführung in Planung einer Industrieroboterzelle als komplexes Automatisierungssystem
 - Überblick über die wesentlichen Baugruppen und Aufbau von Industrierobotersystemen
@@ -10,4 +10,3 @@
   - Sicherheit von Robotern
   - Programmierung von Robotern
   - Inbetriebnahme und Abnahme
-

@@ -1,4 +1,4 @@
-## 0.1 Einführung
+## 1.0 Einführung
 
 ### Verwendung von Robotern durch die Jahrzehnte
 
@@ -74,7 +74,7 @@ $\rightarrow$ Automatisierung der Automatisierung
 
 ### Wirtschaftlichkeit
 
-Generell lohnt sich ein Industrieroboter, wenn die Stückkosten gering sind und die Stückzahlen hoch sind. Es gibt ein Transferpunkt, bei dem sich die Investition in einen Roboter lohnt. Durch die Reduktion der Anschaffungskosten und die Erhöhung der Flexibilität wird dieser Punkt immer früher erreicht.
+Generell lohnt sich ein Industrieroboter, wenn die Stückkosten gering sind und die Stückzahlen hoch sind. Während die Pro-Stück-Kosten einer Transferlinie (vgl. Förderband) linear abnehmen bei steigender Stückzahl, verhält sich das beim Roboter komplexer: Bei geringeren Stückkosten als am manuellen Arbeitsplatz und bei geringeren Stückzahlen als bei der Transferlinie lohnt sich der Roboter. Durch die Reduktion der Anschaffungskosten und die Erhöhung der Flexibilität wird dieser Punkt immer früher erreicht.
 
 #### Argumente für eine neue Roboteranwendung
 

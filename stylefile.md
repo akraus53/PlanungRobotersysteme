@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Prevent lists from being split across pages */
-ul, ol {
+ul, ol, table {
   page-break-inside: avoid;
 }
 
