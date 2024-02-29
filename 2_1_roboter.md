@@ -13,7 +13,7 @@
 | Form des Arbeitsraums | Kugel | Zylinder | Quader | Komplex |
 | Radius des Arbeitsraums | 0.5-3m | 0.5-1m | 0.1-100m | 0.1-10m |
 | Traglast [kg] | 5-1000 | 0.5-5 | 0.5-X000 | 0.5-X000 |
-| Dynamik | mittlere Geschw. und Beschl. | sehr große Geschw. und Beschl. |  je kleiner, desto schneller | sehr große Geschw. und Beschl. |
+| Dynamik | mittlere Geschw. und Beschl. | sehr große Geschw. und Beschl. | je kleiner, desto schneller | sehr große Geschw. und Beschl. |
 
 ### Einsatzbereiche
 
@@ -51,12 +51,8 @@ Die Steuerung besteht aus:
 
 ### Formen der Genauigkeit
 
-- **Wiederholgenauigkeit** gibt an, wie genau eine Pose innerhalb von vielen
-Zyklen erreicht werden kann. Bei vielen Industrieroboter bis zu 0.05 mm.
-- **Absolutgenauigkeit** gibt an, wie genau die Raumkoordinaten bezogen
-auf das Basissystem des Roboters erreicht werden; hier sind Industrieroboter verleichsweise ungenau.
+- **Wiederholgenauigkeit** gibt an, wie genau eine Pose innerhalb von vielen Zyklen erreicht werden kann. Bei vielen Industrierobotern bis zu 0.05 mm.
+- **Absolutgenauigkeit** gibt an, wie genau die Raumkoordinaten bezogen auf das Basissystem des Roboters erreicht werden; hier sind Industrieroboter vergleichsweise ungenau.
 - **Bahngenauigkeit** gibt die Abweichung von der programmierten Bahn an.
-- Die Genauigkeit ändert sich unter wechselnder Last aufgrund der relativ
-geringen Steifigkeit.
-- Robotergenauigkeit kann nicht pauschal durch eine einzige Kenngröße
-beschrieben werden.
+- Die Genauigkeit ändert sich unter wechselnder Last aufgrund der relativ geringen Steifigkeit.
+- Robotergenauigkeit kann nicht pauschal durch eine einzige Kenngröße beschrieben werden.

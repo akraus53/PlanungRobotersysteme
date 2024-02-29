@@ -1,6 +1,6 @@
 ## 7.2 Closed-Loop-Benchmarking
 
-- Bestandteile: Industrieroboter, Sensorik, Runtime trajectory recognition/adaptation
+Bestandteile: Industrieroboter, Sensorik, Runtime trajectory recognition/adaptation
 
 ### Performance-Kriterien
 

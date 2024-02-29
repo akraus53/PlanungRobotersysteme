@@ -10,8 +10,8 @@
 
 ### Abgrenzung von Steuerung und Regelung
 
-- Steuern — beschreibt den Vorgang zur Beeinflussung von Ausgangsgrößen eines Systems durch Einstellen von Eingangsgrößen
-- Regeln — beschreibt den Vorgang bei dem fortlaufend eine Regelgröße erfasst und mit einer Führungsgröße verglichen wird (Regelabweichung), so dass die Regelgröße der Führungsgröße nachfolgt
+- **Steuern** — beschreibt den Vorgang zur Beeinflussung von Ausgangsgrößen eines Systems durch Einstellen von Eingangsgrößen
+- **Regeln** — beschreibt den Vorgang bei dem fortlaufend eine Regelgröße erfasst und mit einer Führungsgröße verglichen wird (Regelabweichung), so dass die Regelgröße der Führungsgröße nachfolgt
 - Vergleich:
   - Geschlossener Wirkungskreis durch Rückkopplung der Regelgröße
   - Ständiger Vergleich von Soll- und Istwert des geschlossenen Wirkungskreises ermöglicht die Reduzierung von Störgrößen
@@ -22,11 +22,11 @@
 
 **Automatierungspyramide:**
 
-- ERP: Enterprise Resource Planning (Planungsebene)
-- MES: Manufacturing Execution System (Betriebsleitebene)
-- SCADA: Supervisory Control and Data Acquisition (Prozessleitebene)
-- PLC: Programmable Logic Controller (Steuerungsebene/SPS)
-- Bus: Feldbus (Feldgeräteebene)
+- **ERP:** Enterprise Resource Planning (Planungsebene)
+- **MES:** Manufacturing Execution System (Betriebsleitebene)
+- **SCADA:** Supervisory Control and Data Acquisition (Prozessleitebene)
+- **PLC:** Programmable Logic Controller (Steuerungsebene/SPS)
+- **Bus:** Feldbus (Feldgeräteebene)
 
 **Leitebene / Zellenebene / Maschinensteuerungsebene:**
 
@@ -66,7 +66,7 @@
 
 - Maschinensteuerung beinhaltet Teilsysteme mit offener oder geschlossener Wirkungskette
 - Steuerungstypen
-  - Die speicherprogrammierbare Steuerung (SPS) verarbeitet zyklisch Eingangs- signale und bestimmt anhand interner Zustände und einer Logik die Ausgangssignale
+  - Die speicherprogrammierbare Steuerung (SPS) verarbeitet zyklisch Eingangssignale und bestimmt anhand interner Zustände und einer Logik die Ausgangssignale
   - Die Robotersteuerung (RC) dient als Programmsteuerung, zur Ausführung von Bewegungen und zur Steuerung externer Geräte
   - Die numerische Steuerung (NC) ist eine Programmsteuerung, in der Fertigungsschritte werkstückorientiert interpretiert und Bewegungen ausgeführt werden
 
@@ -76,7 +76,8 @@
   - Kompensation von Störungen, die auf der Gelenkebene nicht erfasst werden (z.B. Durchbiegen und Drift)
   - Anpassung eines Prozessparameters (z.B. Abstand zum Werkstück)
 - Lösungsmöglichkeiten:
-  - Referenzierung: Anpassung des Programms Exteme Regelung: Bewegungsüberlagerung durch Erfassung der Ist-Pose
+  - Referenzierung: Anpassung des Programms
+  - Exteme Regelung: Bewegungsüberlagerung durch Erfassung der Ist-Pose
 - Welche Anhaltspunkte sind zu beachten?
   - Prozesssichere Auswertung und Vernetzung der Sensoren
   - Schnittstelle zur Steuerung

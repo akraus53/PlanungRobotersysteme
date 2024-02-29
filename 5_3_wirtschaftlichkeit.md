@@ -2,10 +2,10 @@
 
 - Roboter stellt selbst nur einen kleinen Teil der Anlage dar
 - Wesentliche Kostenblöcke:
-  - Engineering
-  - Vorrichtungen
-  - Werkzeuge
-  - Inbetriebnahme
+  - **Engineering**
+  - **Vorrichtungen**
+  - **Werkzeuge**
+  - **Inbetriebnahme**
 - Robotersysteme sind meist Sondermaschinen
 - **Lebenszyklusbetrachtung**: Kosten sollten übr alle Phasen des Lebenszyklus betrachtet werden. Problem: Datenlage.
 
@@ -27,7 +27,7 @@ Bei der Planung von roboterbasierten Automatisierungen bietet die strukturierte 
 
 Für die sichere Planung kommt den folgenden Aspekten entscheidende Bedeutung zu:
 
-- Greiferauswahl und zugehörige Machbarkeitsanalysen
-- Sensorauswahl und zugehörige Machbarkeitsanalysen
-- Berücksichtigung von zusätzlichen Kosten zur Anpassung der bestehenden IT-Infrastrukur
-- Anpassung des bestehenden Prozesses bei Integration der Roboterlösung
+- **Greiferauswahl und zugehörige Machbarkeitsanalysen**
+- **Sensorauswahl und zugehörige Machbarkeitsanalysen**
+- **Berücksichtigung von zusätzlichen Kosten zur Anpassung der bestehenden IT-Infrastrukur**
+- **Anpassung des bestehenden Prozesses bei Integration der Roboterlösung**

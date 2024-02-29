@@ -11,18 +11,18 @@
 
 ### Ursprung von Toleranzen
 
-- Umgebung: Aufspannung, Anregung, Temperatur
-- Mechanik: Spiel, Nachgebigkeit, Schwerkraft
-- Singalverarbeitung: Kinematik, Bahnplanung und -führung
-- Prozess: Durchbiegung, dynamische Effekte
+- **Umgebung**: Aufspannung, Anregung, Temperatur
+- **Mechanik**: Spiel, Nachgiebigkeit, Schwerkraft
+- **Singalverarbeitung**: Kinematik, Bahnplanung und -führung
+- **Prozess**: Durchbiegung, dynamische Effekte
 
 ### Fehlerausgleichsstrategien
 
-- Ausgangspunkt: Standard-Industrieroboter (Wiederholgenauigkeit) $\rightarrow$ 0,8 mm
-- Intrinsische Korrektur:
+- **Ausgangspunkt**: Standard-Industrieroboter (Wiederholgenauigkeit) $\rightarrow$ 0,8 mm
+- **Intrinsische Korrektur**:
   - Modellbasierte DH-Parameter-Kompensation (DH = Denavit-Hartenberg) $\rightarrow$ 0,5 mm
   - Zusätzliche Achsencoder $\rightarrow$ 0,3 mm
-- Extrinsische Korrektur:
+- **Extrinsische Korrektur**:
   - Motion Tracking $\rightarrow$ 0,1 mm
 
 ### Genauigkeitsdefinitionen

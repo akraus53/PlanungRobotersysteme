@@ -21,11 +21,11 @@ Vielfältige Vernetzung, Informationsaustausch, Eigenständige Anlagen und Infor
 
 ### In der Robotik verbreitete Toolkits
 
-- ROS (Robot Operating System): Flexibles Framework für Robotersoftware-Entwicklung, erleichtert Kommunikation und Koordination.
-- OPC UA (Open Platform Communications Unified Architecture): Offener Standard für industrielle Automatisierung, ermöglicht nahtlose Integration, sichere Kommunikation.
-- OpenCV (Open Source Computer Vision Library): Open-Source-Bibliothek für Computer Vision, unterstützt Objekterkennung, Tracking und Bildanalyse.
-- OpenRAVE (Open Robotics Automation Virtual Environment): Open-Source-Plattform für Robotersystem-Simulation und -Planung, fördert Bewegungsablaufentwicklung.
-- TensorFlow (Open Source Machine Learning Framework): Framework für maschinelles Lernen, in der Robotik für Bilderkennung, Sprachverarbeitung und Bewegungssteuerung verwendet.
+- **ROS (Robot Operating System):** Flexibles Framework für Robotersoftware-Entwicklung, erleichtert Kommunikation und Koordination.
+- **OPC UA (Open Platform Communications Unified Architecture):** Offener Standard für industrielle Automatisierung, ermöglicht nahtlose Integration, sichere Kommunikation.
+- **OpenCV (Open Source Computer Vision Library):** Open-Source-Bibliothek für Computer Vision, unterstützt Objekterkennung, Tracking und Bildanalyse.
+- **OpenRAVE (Open Robotics Automation Virtual Environment):** Open-Source-Plattform für Robotersystem-Simulation und -Planung, fördert Bewegungsablaufentwicklung.
+- **TensorFlow (Open Source Machine Learning Framework):** Framework für maschinelles Lernen, in der Robotik für Bilderkennung, Sprachverarbeitung und Bewegungssteuerung verwendet.
 
 ### Open Source Software
 
@@ -43,6 +43,6 @@ Vielfältige Vernetzung, Informationsaustausch, Eigenständige Anlagen und Infor
 
 ### Übersicht Softwarelizenzen
 
-- Copyleft besagt, dass abgeleitete Werke unter der gleichen Lizenz veröffentlicht werden müssen. Permissive Lizenzen erlauben die Verwendung des Codes in abgeleiteten Werken, ohne dass diese unter der gleichen Lizenz veröffentlicht werden müssen.
+- **Copyleft** besagt, dass abgeleitete Werke unter der gleichen Lizenz veröffentlicht werden müssen. **Permissive Lizenzen** erlauben die Verwendung des Codes in abgeleiteten Werken, ohne dass diese unter der gleichen Lizenz veröffentlicht werden müssen.
 
-- Copyright besagt, dass der Urheber des Codes das Recht hat, die Verwendung und Verbreitung des Codes zu kontrollieren. Open Source Lizenzen erlauben die Verwendung und Verbreitung des Codes unter bestimmten Bedingungen, die in der Lizenz festgelegt sind.
+- **Copyright** besagt, dass der Urheber des Codes das Recht hat, die Verwendung und Verbreitung des Codes zu kontrollieren. **Open Source Lizenzen** erlauben die Verwendung und Verbreitung des Codes unter bestimmten Bedingungen, die in der Lizenz festgelegt sind.
