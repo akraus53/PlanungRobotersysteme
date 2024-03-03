@@ -56,4 +56,4 @@ Es wird vom Betreiber erwartet, dass er sicherstellt:
 - Eignung der Maschine für den vorgesehenen Verwendungszweck
 - Definition und Umsetzung von Schutzmaßnahmen nach dem **TOP-Prinzip** (Technische, Organisatorische, Personenbezogene Maßnahmen)
 - Bedienungsanleitung und Schulung des Bedienpersonals (v.a. mit Hinblick auf die Gefahren, die von der Maschine ausgehen)
-- Festlegung von Wartungs- und Instandhaltungsmaßnahmens
+- Festlegung von Wartungs- und Instandhaltungsmaßnahmen

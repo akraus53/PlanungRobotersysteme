@@ -14,7 +14,7 @@
 1. **Entwicklung und Integration**: Kosten im Verhältnis zu den Gesamtkosten gering, aber größter Einfluss auf die später entstehenden Kosten
 1. **Inbetriebnahme**: Häufig technische Probleme.
 1. **Produktionsphase**: Meist Gegenüberstellung von Kostenersparnis durch die Anlage. Anlage lohnt sich meist nach 2-3 Jahren.
-1. **Repatur und Wartung**: Typischerweise 2-5% der Anschaffungskosten
+1. **Reparatur und Wartung**: Typischerweise 2-5% der Anschaffungskosten
 1. **Umrüstung**: Heutige Anlagen sind meist nicht auf Umrüstung ausgelegt. Umrüstungskosten sind schwer zu kalkulieren.
 1. **Stilllegung und Entsorgung**: Kosten sind schwer zu kalkulieren.
 
@@ -27,7 +27,7 @@ Bei der Planung von roboterbasierten Automatisierungen bietet die strukturierte 
 
 Für die sichere Planung kommt den folgenden Aspekten entscheidende Bedeutung zu:
 
-- **Greiferauswahl und zugehörige Machbarkeitsanalysen**
-- **Sensorauswahl und zugehörige Machbarkeitsanalysen**
-- **Berücksichtigung von zusätzlichen Kosten zur Anpassung der bestehenden IT-Infrastrukur**
+- **Greiferauswahl und zugehörige Machtarbeitsanalysen**
+- **Sensorauswahl und zugehörige Machtarbeitsanalysen**
+- **Berücksichtigung von zusätzlichen Kosten zur Anpassung der bestehenden IT-Infrastruktur**
 - **Anpassung des bestehenden Prozesses bei Integration der Roboterlösung**

@@ -3,7 +3,7 @@
 ### Problemstellung
 
 - Heutzutage mehr Varianten und kürzere Produktionszyklen bei kleineren Losgrößen
-- Reduktion der Abhängigkeit von Vorrichtungen für größere Flexibilität: Ein **Roobter-Arm** kann immer gleich bleiben, auch wenn das Werkstück wechselt. Eine Vorrichtung müsste für jedes Werkstück neu angepasst werden.
+- Reduktion der Abhängigkeit von Vorrichtungen für größere Flexibilität: Ein **Roboter-Arm** kann immer gleich bleiben, auch wenn das Werkstück wechselt. Eine Vorrichtung müsste für jedes Werkstück neu angepasst werden.
 - Optische Werkstücklokalisierung: Anpassung an unterschiedliche Werkstücke durch **Softwarekonfiguration**, kürzere Rüstzeiten
 - Werkstücklokalisierung ist die Bestimmung der Lage einzelner Werkstücke in einem Raum. Sowohl die Position als auch die Orientierung des Werkstücks sind relevant.
 - Sie ist eine Voraussetzung für die Vereinzelung, lagerichtige Zuführung, Palettierung und Montage von Werkstücken.
@@ -52,7 +52,7 @@
 
 - Bestimmung der Transformation zwischen Kamera und Roboter
 - Ziel: Korrektur von Fehlern der Sensorik und des Roboters
-- Verwendet meist ein **Kalibrierungsmuster/körper**
+- Verwendet meist ein **Kalibrierungsmuster/-körper**
 
 ### Hürden bei der Umsetzung
 

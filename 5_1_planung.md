@@ -42,7 +42,7 @@ $\rightarrow$ Es werden strukturierte Entwicklungsprozesse zur Beherrschung der 
 1. Suche nach Lösungsprinzipien
 1. Gliederung in realisierbare Teilaufgaben
 1. Gestaltung maßgebender Module
-1. Machbarkeitsunteruchung
+1. Machbarkeitsuntersuchung
 1. Gestaltung Gesamtsystem
 
 ### Vorgehensweise Machbarkeitsuntersuchung

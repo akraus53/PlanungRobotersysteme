@@ -77,7 +77,7 @@
   - Anpassung eines Prozessparameters (z.B. Abstand zum Werkstück)
 - Lösungsmöglichkeiten:
   - Referenzierung: Anpassung des Programms
-  - Exteme Regelung: Bewegungsüberlagerung durch Erfassung der Ist-Pose
+  - Externe Regelung: Bewegungsüberlagerung durch Erfassung der Ist-Pose
 - Welche Anhaltspunkte sind zu beachten?
   - Prozesssichere Auswertung und Vernetzung der Sensoren
   - Schnittstelle zur Steuerung

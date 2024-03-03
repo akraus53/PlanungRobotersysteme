@@ -2,7 +2,7 @@
 
 ### Roboterprogrammierung Grundlagen
 
-- Ziel ist , die Aufgabe des Roboter zu definieren und **Planungsdaten** zu erhalten (z.B: Takzeiten)
+- Ziel ist , die Aufgabe des Roboter zu definieren und **Planungsdaten** zu erhalten (z.B: Taktzeiten)
 - Programmierung kann **online** (vor Ort, Handgerät/Vormachen) oder **offline** (von einem anderen Ort, ohne Roboter. Simulativ oder automatisch) erfolgen
 - Zeitaufwand: Faustregel 1min/Punkt bei **Online-Programmierung** mit Handgerät
 
@@ -13,12 +13,12 @@
 - Definieren der Bewegung durch anzufahrende Punkte, Bewegungsart (PTP, Bogen, ...) und Bewegungsparameter (Geschwindigkeit, Beschleunigung, ...)
 - Definieren des Prozessablaufs (meist durch warten auf Signale, setzen von Ausgängen, ...)
 - Unterschiedliche Handgeräte: Touchscreen, Tastatur, Joystick, 3D-Maus, ...
-- Bei üblichen Werkstücken kann mit einem Tag **Programieraufwand** pro Werkstück gerechnet werden (450 Punkte entsprechen 7,5h **Programieraufwand**)
+- Bei üblichen Werkstücken kann mit einem Tag **Programmieraufwand** pro Werkstück gerechnet werden (450 Punkte entsprechen 7,5h **Programmieraufwand**)
 
 #### Programmieren durch Vormachen
 
 - Statt die Punkte einzugeben, kann der Roboterführer die Bewegungen vormachen, indem er den Roboterarm führt und mit dem Handgerät die Punkte speichert
-- Ziel: Reduzierung des **Programieraufwands**, geringerer Schulungsaufwand
+- Ziel: Reduzierung des **Programmieraufwands**, geringerer Schulungsaufwand
 
 ### Offline-Programmierung
 

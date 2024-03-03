@@ -3,9 +3,12 @@
 > Stand: WS 2023/24. Sourcedateien auf [GitHub](https://github.com/akraus53/PlanungRobotersysteme). Letzter Export: {{FormatDate CurrentDate "dd.MM.yyyy" }} um {{ FormatDate CurrentDate "HH:mm" }} Uhr. Stand: Alle Kapitel zusammengefasst. $\mathrm{\copyright}$ Alexander Kraus, 2024
 
 <!-- prettier-ignore-start -->
+<!-- spell-checker:disable -->
+
 !!!include(stylefile.md)!!!
 
 !!!include(0_1_lernziele.md)!!!
+!!!include(0_2_pruefung.md)!!!
 !!!include(1_0_einführung.md)!!!
 !!!include(2_1_roboter.md)!!!
 !!!include(2_2_roboter.md)!!!

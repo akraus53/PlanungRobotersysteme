@@ -119,5 +119,5 @@ Generell lohnt sich ein Industrieroboter, wenn die **Stückkosten gering** sind 
 
 - Vernetzte Flurtransportsysteme statt der Produktion am "Fließband"
 - Programmierung durch Vorführung (z.B. Schweißen)
-- **Flexibiliät** von mobilen Robotern beim Griff in die Kiste
+- **Flexibilität** von mobilen Robotern beim Griff in die Kiste
 - **Sensorgeführtes Schweißen**

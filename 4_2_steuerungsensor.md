@@ -13,7 +13,7 @@
 
 - **Umgebung**: Aufspannung, Anregung, Temperatur
 - **Mechanik**: Spiel, Nachgiebigkeit, Schwerkraft
-- **Singalverarbeitung**: Kinematik, Bahnplanung und -führung
+- **Signalverarbeitung**: Kinematik, Bahnplanung und -führung
 - **Prozess**: Durchbiegung, dynamische Effekte
 
 ### Fehlerausgleichsstrategien
@@ -27,10 +27,10 @@
 
 ### Genauigkeitsdefinitionen
 
-- **Wiederholgenauigkeit**: Abweichung des Endeffektors bei mehrmaliger Anfahrt desselben Punktes (Relevant für Teach-in, Online-Progammierung)
+- **Wiederholgenauigkeit**: Abweichung des Endeffektors bei mehrmaliger Anfahrt desselben Punktes (Relevant für Teach-in, Online-Programmierung)
 - **Absolutgenauigkeit**: Abweichung des Endeffektors bei Anfahrt eines Punktes (= Koordinaten, Relevant bei Offline-Programmierung)
 - **Bahngenauigkeit**: Abweichung des Endeffektors bei Bahnfahrt (Relevant bei Schweißen, Kleben, Lackieren). Typischerweise 1-5 mm Abweichung.
-- **Posengenauigkeit**: Abweichung des Endeffektors bei Anfahrt eines Punktes (Relevant bei Positioniergenauigkeit, z.B. bei Montage)
+- **Porengenauigkeit**: Abweichung des Endeffektors bei Anfahrt eines Punktes (Relevant bei Positioniergenauigkeit, z.B. bei Montage)
 
 ### Verbesserungsmöglichkeiten
 
@@ -52,7 +52,7 @@ $\rightarrow$ Da Code sehr günstig ist, kann eine große Verbesserung der Genau
 
 ### Modellierungsansätze von Toleranzen
 
-- **Parametrisches physikalisches Modell**/White-Box-Modell: Modellierung der kinematischen und dynamischen Eigenschaften des Roboters. Hoher Modellierungsaufwand, beschränkung auf die wesentlichen Parameter.
+- **Parametrisches physikalisches Modell**/White-Box-Modell: Modellierung der kinematischen und dynamischen Eigenschaften des Roboters. Hoher Modellierungsaufwand, Beschränkung auf die wesentlichen Parameter.
 - **Generisches mathematisches Modell**/Black-Box-Modell: Modellierung der kinematischen und dynamischen Eigenschaften des Roboters. Hoher Rechenaufwand, komplexes Ein-/Ausgangsverhalten.
 - **Hybride Modellierung**/Grey-Box-Modell: Kombination aus parametrischem und generischem Modell. Kann zum Beispiel durch Kombination von kinematischer Berechnung und neuronalem Netzwerk realisiert werden.
 
@@ -66,9 +66,9 @@ $\rightarrow$ Modellierung kann entweder durch Vorwissen oder durch Messungen er
 
 ### Messwerterfassung durch Sensorik
 
-- **Lasertracker**: Laserstracker, bis 150 m Entfernung, 0,02 mm Auflösung, 1000 Messpunkte/Sekunde, SDK für Softwareintegration, präzise Vermessung von Robotern und Anlagen, Reflektoren erforderlich, optionale 6D Posenmessung.
+- **Lasertracker**: Lasertracker, bis 150 m Entfernung, 0,02 mm Auflösung, 1000 Messpunkte/Sekunde, SDK für Softwareintegration, präzise Vermessung von Robotern und Anlagen, Reflektoren erforderlich, optionale 6D Posenmessung.
 - **Indoor GPS**: Lokalisierungssystem, beliebiges Messvolumen. Alle Komponenten in einem Referenzsystem. Online-Kompensation
-- **Laser-Scanner**: Unterschiedliche Genauigkeiten, Messpunktwolken. Echtzeitreferenzierung von mobilen Robotern, Objektlagenerkenung
+- **Laser-Scanner**: Unterschiedliche Genauigkeiten, Messpunktwolken. Echtzeitreferenzierung von mobilen Robotern, Objektlagenerkennung
 - **Mechanische und optische Messtaster**: Arbeitsbereich bis 15cm, Auflösung bis 1 $\mathrm{\mu m}$. Für parametrische Modelle wie serielle Kinematiken, Online-Kompensation möglich.
 - **Interne Sensorik**: Direkte und indirekte Messung, Online-Kompensation, Automatische Kalibrierung. Günstig, da bereits vorhanden.
 

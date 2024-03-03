@@ -14,7 +14,7 @@ Phasen der Entwicklung von Robotersystemen:
 - parallel Arbeit nur eingeschränkt möglich
 - wenn möglich, **Inbetriebnahme in Baugruppen**
 - Planung nur bedingt möglich
-- **Steuerung der Inbetriebnahme**: Bei Planabweichungen kleine Korrrekturen, bei großen Abweichungen Plananpassung
+- **Steuerung der Inbetriebnahme**: Bei Planabweichungen kleine Korrekturen, bei großen Abweichungen Plananpassung
 
 ### Endphase
 

@@ -20,7 +20,7 @@
 | Kinematik | Serielle Roboter |  |  | Parallele und andere Roboter |
 | --- | --- | --- | --- | --- |
 | Bauform | Knickarm | SCARA | Portal | Delta, Seilroboter |
-| Vorteile | Zugänglichkeit, Beweglichkeit, Traglast |  | Sehr große Reichweite und Nutzlast | Hohe Steifigkeit, Genauikeit, Dynamik |
+| Vorteile | Zugänglichkeit, Beweglichkeit, Traglast |  | Sehr große Reichweite und Nutzlast | Hohe Steifigkeit, Genauigkeit, Dynamik |
 | Nachteile | Mäßige abs. Genauigkeit | eingeschränkte Beweglichkeit, kleiner Arbeitsraum, kleine Traglast |  |  |
 | Typische Prozesse | Schweißen, Kleben, handling | Montage, Pick&Place | Pick&Place, Regalbedienung, Kommissionierung | Pick&Place, Sonderaufgaben |
 | Traglast [kg] | 5-1000 | 0.5-5 | 0.5-X000 | 0.5-X000 |
@@ -43,7 +43,7 @@ $\rightarrow$ Greifer und Werkzeuge sind Anpass- oder Sonderkonstruktionen
 
 ### Steuerungstechnik
 
-- Die Steuerung beinhaltet die Überwachung, den Betrieb, die Kommuikation und die Bedienung des Robotersystems
+- Die Steuerung beinhaltet die Überwachung, den Betrieb, die Kommunikation und die Bedienung des Robotersystems
 - Sie baut auf auf den Anwender, den Roboter und den Prozess
 - Die Steuerungstechnik einer Anlage muss vorab sorgsam geprüft werden
 - Robotersteuerungen sind zum Betrieb einer einfachen Roboterzelle ausreichend

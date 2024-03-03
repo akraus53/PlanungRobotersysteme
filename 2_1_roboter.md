@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- |
 | Bauform | Knickarm | SCARA | Portal | Delta, Seilroboter |
 | Marktanteil | **66%** | 19% | 10 % | 1% |
-| Vorteile | Zugänglichkeit, Beweglichkeit, Traglast |  | Sehr große Reichweite und Nutzlast | Hohe Steifigkeit, Genauikeit, Dynamik |
+| Vorteile | Zugänglichkeit, Beweglichkeit, Traglast |  | Sehr große Reichweite und Nutzlast | Hohe Steifigkeit, Genauigkeit, Dynamik |
 | Nachteile | Mäßige abs. Genauigkeit | eingeschränkte Beweglichkeit, kleiner Arbeitsraum, kleine Traglast |  |  |
 | Typische Prozesse | Schweißen, Kleben, handling | Montage, Pick&Place | Pick&Place, Regalbedienung, Kommissionierung | Pick&Place, Sonderaufgaben |
 | DOF | 5-6 | 3-4 | 3 | 3-6 |
